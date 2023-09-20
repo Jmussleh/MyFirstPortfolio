@@ -7,7 +7,7 @@ https://jmussleh.github.io/My-Professional-Portfolio-Final-Draft/
 This webpage is for collegues or potential employers to view my work.
 
 ## Screenshot of Application
-
+<img title="React Portfolio" alt="Screenshot of Portfolio" src="assets\ScreenshotMyfirstwebsite.png">
 ## Installation
 
 N/A
